@@ -1,3 +1,5 @@
+> 截至自2017-08-11，支持现世已出的几乎所有PC端浏览器版本判断。
+
 ```javascript
 function getBroswer(){
     var sys = {};
